@@ -1,4 +1,4 @@
-### Hi there, I'm SIU MAN CHENG 👋
+### Hi there, I'm MON CHENG 👋
 〰️ I am a second year Computer Programming student at Seneca Polytechnic, Toronto, Canada.<br>
 〰️ Experienced Business Analyst in Business Process Management (BPM), Robotic Process Automation (RPA) projects within agile framework.<br>
 〰️ Specializes in connecting between business needs and technological solutions to optimize operational efficiency.
